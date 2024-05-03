@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pymongo
+python-dotenv
+opentelemetry-distro
+opentelemetry-exporter-otlp
+PyJWT
+requests
+pydantic
+python-multipart
